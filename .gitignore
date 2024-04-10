@@ -1,0 +1,8 @@
+#TeX 
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+#Temporary
+*~
